@@ -1,0 +1,6 @@
+Fixed Battery Voltage,Portable Battery Voltage,Portable Battery Current,Fixed Battery Current,Motor Status (On/Off),BCM Battery Selected,Portable Battery Temperatures,Fixed Battery Temperatures,Effective SOC
+12.5,12.3,2.5,3.0,1,1,25.0,22.0,80
+12.6,12.4,2.7,3.1,0,0,26.0,23.0,75
+12.4,12.2,2.6,2.9,1,1,24.5,21.5,85
+12.7,12.5,2.8,3.2,0,0,27.0,24.0,90
+12.3,12.1,2.4,2.8,1,1,23.5,20.5,70
