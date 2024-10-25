@@ -12,7 +12,7 @@ import streamlit as st
 st.title("Battery Data Analysis and Machine Learning")
 
 # Step 2: Load the Dataset
-data = pd.read_csv(r'C:\Users\Sankeerthi\Downloads\sample_battery_data.csv')
+data = pd.read_csv(r'sample_battery_data.csv')
 
 # Step 3: Data Analysis
 # Display the dataset
